@@ -1,6 +1,6 @@
 local url = "https://discordapp.com/api/webhooks/1085743126058111076/Rw3fwirZsvG_s_m8itIGzfbpZdObwK36LJC7PDR0hjSuxGahM_oJnNmAZZXHz4Sfj8MU"
 local data = {
-    ["content"] = game.Players.LocalPlayer.Name .. " executed **Synex Hub Version: 1**",
+    ["content"] = game.Players.LocalPlayer.Name .. " executed **Synex Hub: Mobile**",
     ["embeds"] = {
         {
             ["title"] = "Username: " .. game.Players.LocalPlayer.Name,
